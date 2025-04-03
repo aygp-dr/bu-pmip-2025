@@ -1,0 +1,46 @@
+#+TITLE: Project Management in Practice (PMiP) Conference Tracker
+#+AUTHOR: Your Name
+#+DATE: [2025-04-02 Wed]
+#+STARTUP: overview
+
+* Overview
+
+A repository to track, organize, and maximize the value from attending the 19th Annual Project Management in Practice Conference at Boston University.
+
+* Conference Details
+- *Conference:* 19th Annual Project Management in Practice Conference (PMiP 2025)
+- *Dates:* June 13-14, 2025 (9am-5pm EDT, doors open at 8am)
+- *Location:* Boston University Center for Computing and Data Sciences (CDS), 665 Commonwealth Avenue, Boston, MA 02215
+- *Registration:* Available on Eventbrite, starting from $68.53
+- *Website:* [[https://www.projectmanagementinpractice.com/][projectmanagementinpractice.com]]
+- *Theme:* "Navigating the Future of Project Management: Innovation, Adaptability, and Sustainability"
+
+* Contacts
+- *Defrecord Contact:* Aidan Pace (apace@defrecord.com)
+
+* Repository Structure
+
+This repository is organized to efficiently track conference information, sessions, speakers, and action items before, during, and after the conference.
+
+* Conference Focus Areas
+
+** Innovation, Transformation, Adaptability and Resilience
+- Strategies for managing projects in changing environments
+- Risk management approaches
+- Agile practices implementation
+
+** Sustainability in Projects
+- Integrating sustainable practices
+- Triple bottom line thinking in project management
+- Environmental considerations in project planning
+
+** Digital Transformation
+- Digital tools and platforms for PM efficiency
+- AI-driven project management
+- Construction-specific applications (BIM, Digital Twins, etc.)
+
+* Tracking Priorities
+- [ ] Conference registration and logistics
+- [ ] Session attendance planning
+- [ ] Networking opportunities
+- [ ] Post-conference implementation planning
