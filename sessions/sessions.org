@@ -1,0 +1,45 @@
+#+TITLE: Conference Sessions
+#+AUTHOR: Defrecord Team
+#+DATE: [2025-04-03 Thu]
+#+STARTUP: overview
+
+* Session Details
+
+** General Information
+- *Date:* June 13th, 2025
+- *Location:* 665 Commonwealth Ave. Boston, MA 02215
+- *Venue:* Room 1750 (17th Floor)
+- *Note:* All sessions will be Zoomed and Recorded except for the Tour
+- *Format:* Generous breaks between sessions are provided
+
+** Navigation Resources
+- Main conference website: [[https://www.projectmanagementinpractice.com/][Project Management in Practice Conference]]
+- Session details
+- Track details
+- Speakers information
+- Housing and attractions
+  - Accommodation options
+  - Boston attractions
+
+** Previous Conferences
+- PMiP 2024 - Recordings available
+- PMiP 2023
+- PMiP 2022
+- PMiP 2021
+- Project Management Conference 2020
+- Project Management Conference 2019
+- Project Management Conference 2018
+  - Presentations
+- Project Management Conference 2016
+- Project Management Conference 2015
+- Project Management Conference 2014
+- Project Management Conference 2013
+
+* Sessions of Interest
+[To be filled in when the complete schedule becomes available]
+
+* Action Items
+- [ ] Download full schedule when available
+- [ ] Identify key sessions aligned with our priorities
+- [ ] Register for any workshops requiring separate registration
+- [ ] Coordinate team attendance for parallel sessions
