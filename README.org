@@ -22,6 +22,16 @@ A repository to track, organize, and maximize the value from attending the 19th 
 
 This repository is organized to efficiently track conference information, sessions, speakers, and action items before, during, and after the conference.
 
+** Available Commands
+
+Use the following Makefile commands to manage the project:
+
+- =make help= - Show available commands
+- =make export= - Export all org files to HTML/PDF
+- =make clean= - Remove generated files
+- =make validate= - Check org file syntax
+- =make sync= - Sync documentation structure
+
 * Conference Focus Areas
 
 ** Innovation, Transformation, Adaptability and Resilience
